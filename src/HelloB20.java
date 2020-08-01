@@ -9,7 +9,7 @@ public class HelloB20 {
 
         System.out.println("Today we are learning how to update some codes");
 
-
+        System.out.println("Do we need some more updates?");
 
 
     }
