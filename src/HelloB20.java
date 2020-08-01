@@ -6,5 +6,11 @@ public class HelloB20 {
 
 
         // added a line
+
+        System.out.println("Today we are learning how to update some codes");
+
+
+
+
     }
 }
